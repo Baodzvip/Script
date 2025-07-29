@@ -32,7 +32,7 @@ local LemonHubImageUI = Instance.new("ImageLabel")
         LemonHubImageUI.BorderSizePixel = 0
         LemonHubImageUI.Position = UDim2.new(0.0, 0, 0.0, 0)
         LemonHubImageUI.Size = UDim2.new(0, 50, 0, 50)
-        LemonHubImageUI.Image = "rbxassetid://15378347821" -- Use assetid only ( default is synapse x )
+        LemonHubImageUI.Image = "rbxassetid://83734046909204" -- Use assetid only
 
 
 
