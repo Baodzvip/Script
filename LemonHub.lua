@@ -1,5 +1,5 @@
 local LemonHubScreen = Instance.new("ScreenGui")
-locaoggleUI = Instance.new("TextButton")
+local LemonHubToggleUI = Instance.new("TextButton")
 local LemonHubCornerUI = Instance.new("UICorner")
 local LemonHubImageUI = Instance.new("ImageLabel")
 
